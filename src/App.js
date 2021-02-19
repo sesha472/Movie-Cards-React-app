@@ -1,23 +1,75 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
+
+import React from 'react';
+import Movie  from './movie/movies.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+     <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+<Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+    <Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
+
+<Movie  
+    pic="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg"  
+    movie_name=" MAHARSHI" 
+    likes="125k likes"
+    />
     </div>
   );
 }
