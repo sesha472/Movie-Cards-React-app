@@ -1,4 +1,4 @@
-div {
+/* div {
   background-color: rgb(238, 232, 224);
   border-radius: 20px;
   width: 80%;
@@ -9,7 +9,7 @@ div {
   flex-wrap: wrap;
   justify-content: space-evenly;
   -ms-flex-align: start;
-}
+} */
 /* 
 .App-logo {
   height: 40vmin;
