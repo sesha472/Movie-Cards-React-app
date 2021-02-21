@@ -18,14 +18,14 @@ return (
        
         {this.getMovies("https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg", "125.5k " , " MAHARSHI")}
         {this.getMovies("https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5k" , " MAHARSHI")}
-        {this.getMovies("https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5k"  ,"   MAHARSHI")}
+        {this.getMovies("https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5k"  ,"MAHARSHI")}
         {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg", "125.5k"  ," MAHARSHI")}
-        {/* {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg", "125.5klikes" , " MAHARSHI")}
+        {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg", "125.5klikes" , " MAHARSHI")}
         {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")}
         {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")}
         {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")}
         {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")}
-{this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")} */}
+        {this.getMovies( "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/maharshi-et00081372-09-08-2018-10-00-31.jpg" ,"125.5klikes" , " MAHARSHI")}
        
     </div>
 );
