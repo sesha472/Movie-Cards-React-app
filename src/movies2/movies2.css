@@ -1,11 +1,9 @@
-div {
-  background-color: rgb(238, 232, 224);
-  border-radius: 20px;
+.movies-group {
+  margin-left: 10%;
   width: 80%;
-  margin-left: 20%;
-
+  background-color: rgb(184, 248, 250);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  -ms-flex-align: start;
+  border-radius: 10px;
 }

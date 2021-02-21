@@ -9,8 +9,9 @@ class Movie extends React.Component {
     return (
    <div className="movie-card">
    <img src={this.props.pic}/>
-  <label>{this.props.likes}
-  <span>{this.props.movie_name}</span>
+  <label>
+    <span>{this.props.likes}</span>
+    <span> {this.props.movie_name}</span>
    </label>
    
   </div>
